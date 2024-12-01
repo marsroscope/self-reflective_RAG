@@ -5,7 +5,7 @@
 - [Complete Sample](#complete-Sample)
 
 
-## Introduce:
+## Introduce
 | Dialogue Act  | Percentage  | Dialogue Act  | Percentage  |
 | --- | --- | --- | --- |
 | Asking Symptom | 11.97% | Asking Drug Recommendation | 3.27% |
