@@ -6,7 +6,7 @@
 
 
 ## Introduce:
-| Dialogue Act (Category 1) | Percentage (Category 1) | Dialogue Act (Category 2) | Percentage (Category 2) |
+| Dialogue Act  | Percentage  | Dialogue Act  | Percentage  |
 | --- | --- | --- | --- |
 | Asking Symptom | 11.97% | Asking Drug Recommendation | 3.27% |
 | Asking Existing Examination and Treatment | 4.04% | Asking Precautions | 1.77% |
