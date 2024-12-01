@@ -8,7 +8,7 @@ Intent Recognition, Patient Profile Construction, and Medical Condition Extracti
 
 
 
-**<font style="color:rgb(44, 44, 54);">1.Intent Recognition**
+**1.Intent Recognition**
 
 ```plain
 # Intent Recognition
@@ -68,7 +68,7 @@ Intent recognition task: Given a sequence of conversations between a doctor and 
 
 
 
-**<font style="color:rgb(44, 44, 54);">2.Medical Condition Extraction</font>**
+**2.Medical Condition Extraction</font>**
 
 ```plain
 ## Task: 
@@ -90,7 +90,7 @@ keyword1, keyword2, ...
 
 
 
-**3.<font style="color:rgb(44, 44, 54);">Patient Profile Construction</font>**
+**3.Patient Profile Construction</font>**
 
 ```plain
 ## Goals:
