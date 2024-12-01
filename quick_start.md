@@ -8,6 +8,7 @@ pip install git+https://github.com/yourusername/chatchat.git
 2.执行初始化
 
 ```yaml
+cd Medical_HAI
 chatchat init
 ```
 
