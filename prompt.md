@@ -8,7 +8,7 @@ Intent Recognition, Patient Profile Construction, and Medical Condition Extracti
 
 
 
-**1.Intent Recognition**
+**<font style="color:rgb(44, 44, 54);">1.Intent Recognition**
 
 ```plain
 # Intent Recognition
