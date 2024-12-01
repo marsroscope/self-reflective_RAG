@@ -1,5 +1,5 @@
-# <font style="color:rgb(44, 44, 54);">Prompt</font>
-## <font style="color:rgb(44, 44, 54);">Table of Contents</font>
+# Prompt
+## Table of Contents
 - [Prompt for LLM 1](#Prompt-for-LLM-1)
 - [Prompt for LLM 2](#Prompt-for-LLM-2)
 - [Prompts for Medical Consultation Chatbot](#Prompts-for-Medical-Consultation-Chatbot)
