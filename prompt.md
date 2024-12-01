@@ -68,7 +68,7 @@ Intent recognition task: Given a sequence of conversations between a doctor and 
 
 
 
-**2.Medical Condition Extraction</font>**
+**2.Medical Condition Extraction**
 
 ```plain
 ## Task: 
@@ -90,7 +90,7 @@ keyword1, keyword2, ...
 
 
 
-**3.Patient Profile Construction</font>**
+**3.Patient Profile Construction**
 
 ```plain
 ## Goals:
