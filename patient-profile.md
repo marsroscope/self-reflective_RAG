@@ -1,11 +1,4 @@
-# patient-profile
-## <font style="color:rgb(44, 44, 54);">Table of Contents</font>
-- [Introduce](#Introduce)
-- [Sample](#Sample)
-## <font style="color:rgb(44, 44, 54);">Introduce</font>
-<font style="color:rgb(44, 44, 54);">The case includes the following content, introducing the patient's identity, main symptoms, and personal history, to serve as a reference text for subjects during actual experiments. Below is an example of a Patient Profile</font>
-
-## <font style="color:rgb(44, 44, 54);">Sample</font>
+# patient-profile sample
 > **<font style="color:rgb(44, 44, 54);">Patient Identity</font>:**
 >
 > + <font style="color:rgb(44, 44, 54);">Male, with a history of hypertension and high myopia</font>
