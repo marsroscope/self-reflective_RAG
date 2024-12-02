@@ -14,7 +14,9 @@ import difflib
 import logging
 import requests
 from bs4 import BeautifulSoup, NavigableString
+from chatchat.settings import Settings
 
+api_key = Settings.get('api_key')
 intent_labels = [
     'Doctor-Asking-Symptom',
     'Patient-Giving-Symptom',
@@ -636,7 +638,7 @@ def medical_search(query: str = Field(description="query for medical search"))->
 关键词1,关键词2,关键词3
 """
         } 
-        client = ZhipuAI(api_key="2806385d204a8d1e5bc4e8707ea0d19a.HspdLxBWd9KaSw9V")
+        client = ZhipuAI(api_key=api_key)
         #PROMPT_DICT["context"] 
         results = client.chat.completions.create(
                 model="glm-4-plus",
@@ -701,31 +703,6 @@ def medical_search(query: str = Field(description="query for medical search"))->
         symptom = [sym.replace('\n', '') for sym in symptom]
         symptom  = ' '.join(map(str, symptom )) 
         print(keyword)
-    #     client = ZhipuAI(api_key="4a16d61bfda4c350ca19d8786b658574.IObm0IcKYLYAooFQ")
-    #     #PROMPT_DICT["context"] 
-    #     results = client.chat.completions.create(
-    #             model="glm-4-0520",
-    #             messages=[
-    #                 {
-    #                     "role": "system",
-    #                     "content": "你是一个乐于解答各种问题的助手，你的任务是为用户提供专业、准确、有见地的建议。"
-    #                 },
-    #                 {
-    #                     "role": "user",
-    #                     "content": PROMPT_DICT["context2"]
-    #                 }
-    #         ],
-    #             top_p= 0.7,
-    #             temperature= 0.5,
-    #             max_tokens=1024,
-    #             stream=True,
-    #         )
-    #     full_content = ""
-    #     for chunk in results:
-    # # 每个chunk都有一个choices列表，我们取第一个choice的delta的content
-    #         content = chunk.choices[0].delta.content
-    #         full_content += content
-    #     print(full_content)
         #new_keywords = []
         # for keyworditem in keyword:
         #keyword.append(full_content)
@@ -745,7 +722,7 @@ def medical_search(query: str = Field(description="query for medical search"))->
     
     def AI_select( sym, search_result, dialogue):
         links = []
-        client = ZhipuAI(api_key="2806385d204a8d1e5bc4e8707ea0d19a.HspdLxBWd9KaSw9V")
+        client = ZhipuAI(api_key=api_key)
         PROMPT_DICT = {
        "context": f"""
         ## 目标
@@ -856,7 +833,7 @@ def medical_search(query: str = Field(description="query for medical search"))->
 "- \n"
         ),
         }
-        client = ZhipuAI(api_key="2806385d204a8d1e5bc4e8707ea0d19a.HspdLxBWd9KaSw9V")
+        client = ZhipuAI(api_key=api_key)
         dialogue = {}
         dialogue["dialog_history"] = dialog_history
         dialogue["case_content"] = case_content
@@ -1001,7 +978,7 @@ def medical_search(query: str = Field(description="query for medical search"))->
         ),
         }
 
-        client = ZhipuAI(api_key="2806385d204a8d1e5bc4e8707ea0d19a.HspdLxBWd9KaSw9V")
+        client = ZhipuAI(api_key=api_key)
         dialogue = {}
         dialogue["former_dialogue"] = dialog_history
         context = PROMPT_DICT["context_doctor"].format_map(dialogue)
@@ -1113,7 +1090,7 @@ def medical_search(query: str = Field(description="query for medical search"))->
         #print(content)
         logger.info('文档划分模版：\n' )
         logger.info(content)
-        client = ZhipuAI(api_key="2806385d204a8d1e5bc4e8707ea0d19a.HspdLxBWd9KaSw9V")
+        client = ZhipuAI(api_key=api_key)
         results = client.chat.completions.create(
                 model="glm-4-plus",
                 messages=[
@@ -1208,7 +1185,7 @@ def medical_search(query: str = Field(description="query for medical search"))->
 
 """
 
-        client = ZhipuAI(api_key="2806385d204a8d1e5bc4e8707ea0d19a.HspdLxBWd9KaSw9V")
+        client = ZhipuAI(api_key=api_key)
         results = client.chat.completions.create(
                 model="glm-4-plus",
                 messages=[
@@ -1284,54 +1261,7 @@ def medical_search(query: str = Field(description="query for medical search"))->
         dialog_history.append(f"{role}说：{dialogue['content']}")
     
 
-#     num = judgement(dialog_history)
-#     if num == '1':
-#         dialoguestr = ''
-#         for item in dialog_history:
-#             dialoguestr += item + '\n' 
-#         template =f"""
-# 假设你是三甲医院的医生，能对患者的问题给出专业的回答：
-# {dialoguestr}
-# """
 
-#         client = ZhipuAI(api_key="4a16d61bfda4c350ca19d8786b658574.IObm0IcKYLYAooFQ")
-#         results = client.chat.completions.create(
-#                 model="glm-4-0520",
-#                 messages=[
-#                     {
-#                         "role": "system",
-#                         "content": "你是一个乐于解答各种问题的助手，你的任务是为用户提供专业、准确、有见地的建议。"
-#                     },
-#                     {
-#                         "role": "user",
-#                         "content": template
-#                     }
-#             ],
-#                 top_p= 0.7,
-#                 temperature= 0.5,
-#                 max_tokens=1024,
-#                 stream=True,
-#             )
-#         full_content = ""
-#         for chunk in results:
-#     # 每个chunk都有一个choices列表，我们取第一个choice的delta的content
-#             content = chunk.choices[0].delta.content
-#             full_content += content
-#         return BaseToolOutput("医学知识回答：" + full_content)
-
-
-
-    # #根据对话内容提取病历单
-    # case = case_extract(dialog_history,case_content)
-    # logger.info('病历单内容：\n' )
-    # logger.info(case)
-    # directory = os.path.dirname(casefilename)
-    # if not os.path.exists(directory):
-    #     os.makedirs(directory)  # 确保目录存在
-    # with open(casefilename, 'w', encoding='utf-8') as file:
-    #         file.write(case)
-    # sym = ''
-    # search_result = ''
 
     def judgement2(dialog_history):
         articletittlefilename = './article_tittles6.json'
@@ -1353,7 +1283,7 @@ def medical_search(query: str = Field(description="query for medical search"))->
 只给出答案，不做额外输出:
 1or2
 """
-                client = ZhipuAI(api_key="2806385d204a8d1e5bc4e8707ea0d19a.HspdLxBWd9KaSw9V")
+                client = ZhipuAI(api_key=api_key)
                 results = client.chat.completions.create(
                         model="glm-4-plus",
                         messages=[
