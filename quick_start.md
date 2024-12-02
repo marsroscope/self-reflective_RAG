@@ -48,6 +48,9 @@ DEFAULT_BING_SEARCH_API_kEY:
 chatchat start -a
 ```
 
+6.ui界面 勾选启用agent 开启意图预测和意图预测选择 体验系统1
+![ui界面图片](Medical_HAI/images/ui.jpg)
+
 
 
 
