@@ -197,7 +197,7 @@ To better diagnose your condition, I need to know if you have a history of simil
 **Doctor:** Knowing that you have no other symptoms and no relevant medical or allergy history helps narrow down the possible causes. Based on your current description, here are some considerations and suggestions:
 
 1. **Insect Bite Reaction:** Given your location in Hainan with its hot and humid climate, insect bites are a common possibility.
-2. **Contact Dermatitis:** If you have recently come into contact with new substances, such as plants or chemicals, it could lead to contact dermatitis,表现为 skin redness and itching.
+2. **Contact Dermatitis:** If you have recently come into contact with new substances, such as plants or chemicals, it could lead to contact dermatitis,such as skin redness and itching.
 3. **Atopic Dermatitis (Eczema):** Although you have no history of it, atopic dermatitis can sometimes flare up suddenly, especially in hot and humid climates.
 4. **Scabies:** While scabies usually presents with more extensive rashes and intense nighttime itching, it cannot be entirely ruled out, especially if people you've been in close contact with have similar symptoms.
 
