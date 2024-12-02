@@ -4,32 +4,41 @@
 
 ## 文件夹结构
 ```
-dataset/
+self-reflective_RAG/
 │
-├── README.md
-├── dialogue_with_intent.md
-├── patient_profile.md
-├── user_test_file_sample.md
-├── 45_test_samples_with_no_dialogue/
-│   ├── sub_case_1/
-│   │   ├── plot_1.txt
-│   │   └── concerns_1.txt
-│   ├── sub_case_2/
-│   │   ├── plot_2.txt
-│   │   └── concerns_2.txt
-│   └── ...
-├── 45_test_samples_with_dialogue/
-├── sub_case_1/
-│   ├── plot_1.txt
-│   ├── profile_1.txt
-│   ├── concerns_1.txt
-│   └── dialogue_1.txt
-├── sub_case_2/
-│   ├── plot_2.txt
-│   ├── profile_2.txt
-│   ├── concerns_2.txt
-│   └── dialogue_2.txt
-└── ...
+├── Medical_HAI/
+│   ├── README.md
+│   ├── prompt.md
+│   ├── quick_start.md
+│   └── ... (其他文件或子目录)
+│
+├── dataset/
+│   ├── README.md
+│   ├── dialogue_with_intent.md
+│   ├── patient_profile.md
+│   ├── user_test_file_sample.md
+│   ├── 45_test_samples_with_no_dialogue/
+│   │   ├── sub_case_1/
+│   │   │   ├── plot_1.txt
+│   │   │   └── concerns_1.txt
+│   │   ├── sub_case_2/
+│   │   │   ├── plot_2.txt
+│   │   │   └── concerns_2.txt
+│   │   └── ...
+│   ├── 45_test_samples_with_dialogue/
+│   │   ├── sub_case_1/
+│   │   │   ├── plot_1.txt
+│   │   │   ├── profile_1.txt
+│   │   │   ├── concerns_1.txt
+│   │   │   └── dialogue_1.txt
+│   │   ├── sub_case_2/
+│   │   │   ├── plot_2.txt
+│   │   │   ├── profile_2.txt
+│   │   │   ├── concerns_2.txt
+│   │   │   └── dialogue_2.txt
+│   │   └── ...
+│
+└── README.md
 ```
 
 ## 文件说明
