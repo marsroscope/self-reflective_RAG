@@ -1,0 +1,393 @@
+2024-11-25 20:00:26.844 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.844 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.844 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.846 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.846 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.846 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.866 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.866 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.866 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.906 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.906 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.906 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.906 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.906 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.907 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.907 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.907 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.907 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.907 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.909 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.909 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.909 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.909 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.909 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.909 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.909 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.909 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.909 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.909 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.914 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.914 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.914 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.914 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.914 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.914 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.915 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.915 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.915 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.915 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.915 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.915 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.920 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.920 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.920 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.920 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.920 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.920 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.920 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:26.921 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.921 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.921 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.921 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.921 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.921 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:26.921 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:27.475 | INFO     | chatchat.startup:start_main_server:257 - 正在启动服务：
+2024-11-25 20:00:27.475 | INFO     | chatchat.startup:start_main_server:257 - 正在启动服务：
+2024-11-25 20:00:27.475 | INFO     | chatchat.startup:start_main_server:257 - 正在启动服务：
+2024-11-25 20:00:27.475 | INFO     | chatchat.startup:start_main_server:257 - 正在启动服务：
+2024-11-25 20:00:27.475 | INFO     | chatchat.startup:start_main_server:257 - 正在启动服务：
+2024-11-25 20:00:27.475 | INFO     | chatchat.startup:start_main_server:257 - 正在启动服务：
+2024-11-25 20:00:27.475 | INFO     | chatchat.startup:start_main_server:257 - 正在启动服务：
+2024-11-25 20:00:27.475 | INFO     | chatchat.startup:start_main_server:257 - 正在启动服务：
+2024-11-25 20:00:27.478 | INFO     | chatchat.startup:start_main_server:258 - 如需查看 llm_api 日志，请前往 E:\Users\jhc\anaconda3\envs\py3.81\Lib\site-packages\chatchat\data\logs
+2024-11-25 20:00:27.478 | INFO     | chatchat.startup:start_main_server:258 - 如需查看 llm_api 日志，请前往 E:\Users\jhc\anaconda3\envs\py3.81\Lib\site-packages\chatchat\data\logs
+2024-11-25 20:00:27.478 | INFO     | chatchat.startup:start_main_server:258 - 如需查看 llm_api 日志，请前往 E:\Users\jhc\anaconda3\envs\py3.81\Lib\site-packages\chatchat\data\logs
+2024-11-25 20:00:27.478 | INFO     | chatchat.startup:start_main_server:258 - 如需查看 llm_api 日志，请前往 E:\Users\jhc\anaconda3\envs\py3.81\Lib\site-packages\chatchat\data\logs
+2024-11-25 20:00:27.478 | INFO     | chatchat.startup:start_main_server:258 - 如需查看 llm_api 日志，请前往 E:\Users\jhc\anaconda3\envs\py3.81\Lib\site-packages\chatchat\data\logs
+2024-11-25 20:00:27.478 | INFO     | chatchat.startup:start_main_server:258 - 如需查看 llm_api 日志，请前往 E:\Users\jhc\anaconda3\envs\py3.81\Lib\site-packages\chatchat\data\logs
+2024-11-25 20:00:27.478 | INFO     | chatchat.startup:start_main_server:258 - 如需查看 llm_api 日志，请前往 E:\Users\jhc\anaconda3\envs\py3.81\Lib\site-packages\chatchat\data\logs
+2024-11-25 20:00:27.478 | INFO     | chatchat.startup:start_main_server:258 - 如需查看 llm_api 日志，请前往 E:\Users\jhc\anaconda3\envs\py3.81\Lib\site-packages\chatchat\data\logs
+2024-11-25 20:00:29.946 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:29.946 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:29.947 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:29.947 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:29.948 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:29.948 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:29.956 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:29.956 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.898 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.898 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.898 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.898 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.898 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.898 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.898 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.898 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.898 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.899 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.899 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.899 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.899 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.899 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.899 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.899 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.899 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.899 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.901 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.901 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.901 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.901 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.901 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.901 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.901 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.901 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.901 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.902 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.902 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.902 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.902 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.902 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.902 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.902 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.902 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.902 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.918 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.918 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.918 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.918 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.918 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.918 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.918 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.918 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.918 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.918 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.919 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.919 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.919 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.919 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.919 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.919 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.919 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.919 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.919 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.919 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.922 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.922 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.922 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.922 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.922 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.922 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.922 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.922 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.922 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.922 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.941 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.941 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.941 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.941 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.941 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.941 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.941 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.941 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.941 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.941 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.942 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.942 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.942 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.942 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.942 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.942 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.942 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.942 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.942 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.942 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.943 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.943 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.943 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.943 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.943 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.943 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.943 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.943 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.943 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.943 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.945 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.945 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.945 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.945 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.945 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.945 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.945 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.945 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.945 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.945 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.946 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.946 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.946 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.946 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.946 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.946 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.946 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.946 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.946 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.946 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.956 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.956 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.956 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.956 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.956 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.956 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.956 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.956 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.956 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.956 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.956 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:30.959 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.959 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.959 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.959 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.959 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.959 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.959 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.959 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.959 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.959 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:30.959 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.048 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.048 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.048 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.048 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.048 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.048 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.048 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.048 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.048 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.048 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.048 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.048 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.049 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.049 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.049 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.049 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.049 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.049 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.049 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.049 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.049 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.049 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.049 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.049 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.350 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.350 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.350 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.350 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.350 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.350 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.350 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.350 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.350 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.350 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.350 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.350 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.407 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.407 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.407 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.407 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.407 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.407 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.407 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.407 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.407 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.407 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.407 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.407 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.407 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.407 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.407 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.407 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.409 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.409 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.409 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.409 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.409 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.409 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.409 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.409 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.409 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.409 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.409 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.409 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.409 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.409 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.409 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.409 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.418 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.418 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.418 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.418 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.418 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.418 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.418 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.418 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.418 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.418 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.418 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.418 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.418 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.418 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.418 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.418 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.418 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.418 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.419 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.419 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.419 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.419 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.419 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.419 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.419 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.419 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.419 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.419 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.419 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.419 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.419 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.419 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.419 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.419 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.419 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.419 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.423 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.423 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.423 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.423 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.423 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.423 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.423 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.423 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.423 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.423 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.423 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.423 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.423 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.423 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.423 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.423 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.423 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.423 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.425 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.425 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.425 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.425 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.425 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.425 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.425 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.425 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.425 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.425 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.425 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.425 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.425 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.425 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.425 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.425 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.425 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.425 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.429 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.429 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.429 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.429 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.429 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.429 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.429 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.429 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.429 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.429 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.429 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.429 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.429 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.429 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.429 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.429 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.429 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.429 | WARNING  | chatchat.server.utils:get_config_models:138 - auto_detect_model needs xinference-client installed. Please try "pip install xinference-client". 
+2024-11-25 20:00:31.431 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.431 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.431 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.431 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.431 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.431 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.431 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.431 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.431 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.431 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.431 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.431 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.431 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.431 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.431 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.431 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.431 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
+2024-11-25 20:00:31.431 | WARNING  | chatchat.server.utils:get_default_embedding:193 - default embedding model bge-m3 is not found in available embeddings, using bge-large-zh-v1.5 instead
