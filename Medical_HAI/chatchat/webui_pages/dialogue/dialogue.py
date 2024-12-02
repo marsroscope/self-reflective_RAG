@@ -42,6 +42,7 @@ logger = logging.getLogger()
 handler = logging.FileHandler('medical6.log', encoding='utf-8')
 logger.addHandler(handler)
 
+api_key = Settings.get('api_key')
 intent_labels = [
     'Doctor-Asking-Symptom',
     'Patient-Giving-Symptom',
@@ -329,7 +330,7 @@ def case_extract(dialog_history,case_content):
 "- \n"
         ),
         }
-    client = ZhipuAI(api_key="2806385d204a8d1e5bc4e8707ea0d19a.HspdLxBWd9KaSw9V")
+    client = ZhipuAI(api_key= api_key)
     dialogue = {}
     dialogue["dialog_history"] = dialog_history
     dialogue["case_content"] = case_content
@@ -364,7 +365,7 @@ def case_extract(dialog_history,case_content):
 
 def AI_select( sym, search_result, dialogue):
     links = []
-    client = ZhipuAI(api_key="2806385d204a8d1e5bc4e8707ea0d19a.HspdLxBWd9KaSw9V")
+    client = ZhipuAI(api_key= api_key)
     PROMPT_DICT = {
     "context": f"""## 目标
 链接筛选、提取任务:给你一段医生患者之间的对话，以及检索到的医学知识链接，已经以json的格式给出，包括：相关链接（link）以及链接对应的标题（title）和内容摘要（snippet），然后结合患者症状和身份（男、女、幼儿等），提取出与患者病症最相关的4条链接，只给出链接，无需说原因，不做额外输出。
@@ -598,7 +599,7 @@ def act_classification( dialog_history):
     ),
     }
 
-    client = ZhipuAI(api_key="2806385d204a8d1e5bc4e8707ea0d19a.HspdLxBWd9KaSw9V")
+    client = ZhipuAI(api_key=api_key)
     dialogue = {}
     dialogue["former_dialogue"] = dialog_history
     context = PROMPT_DICT["context_doctor"].format_map(dialogue)
@@ -785,7 +786,7 @@ def nointent_result_gen(extracted_content, dialog_history, case):
 # 3. 接下来，根据��者的��状和所需的��断，在资料中��找相关的病例和治��方案，并对照资料和对话历史中的信息，找出最相关的病例和治��方案。
     logger.info("生成诊断、反问 prompt")
     logger.info(prompt_template2)
-    client = ZhipuAI(api_key="2806385d204a8d1e5bc4e8707ea0d19a.HspdLxBWd9KaSw9V")
+    client = ZhipuAI(api_key=api_key)
     results = client.chat.completions.create(
             model="glm-4-plus",
             messages=[
@@ -947,7 +948,7 @@ def result_gen(extracted_content, dialog_history , case):
     #print(content)
     logger.info('患者问题生成prompt：\n' )
     logger.info(PROMPT_DICT["context2"])
-    client = ZhipuAI(api_key="2806385d204a8d1e5bc4e8707ea0d19a.HspdLxBWd9KaSw9V")
+    client = ZhipuAI(api_key=api_key)
     results = client.chat.completions.create(
             model="glm-4-plus",
             messages=[
@@ -1311,7 +1312,7 @@ def result_gen(extracted_content, dialog_history , case):
 # 3. 接下来，根据��者的��状和所需的��断，在资料中��找相关的病例和治��方案，并对照资料和对话历史中的信息，找出最相关的病例和治��方案。
     #logger.info("生成诊断、反问、患者可能的问题和回复 prompt")
     #logger.info(prompt_template2)
-    client = ZhipuAI(api_key="2806385d204a8d1e5bc4e8707ea0d19a.HspdLxBWd9KaSw9V")
+    client = ZhipuAI(api_key=api_key)
     results = client.chat.completions.create(
             model="glm-4-plus",
             messages=[
@@ -1895,7 +1896,7 @@ def dialogue_page(
                             dialogue_item["dialog_history"] = dialog_history
                             dialogue_item["final_result"] = text.replace("\n", "\n\n")
                             st.session_state.dialogue_history.append(dialogue_item)
-                            client = ZhipuAI(api_key="2806385d204a8d1e5bc4e8707ea0d19a.HspdLxBWd9KaSw9V")
+                            client = ZhipuAI(api_key=api_key)
                             results = client.chat.completions.create(
                                     model="glm-4-plus",
                                     messages=[

@@ -114,7 +114,7 @@ MODEL_PLATFORMS:
   - platform_name: oneapi
     platform_type: oneapi
     api_base_url: https://open.bigmodel.cn/api/paas/v4/
-    api_key: 2806385d204a8d1e5bc4e8707ea0d19a.HspdLxBWd9KaSw9V
+    api_key: YOUR_API_KEY
     api_proxy: ''
     api_concurrencies: 5
     auto_detect_model: false
