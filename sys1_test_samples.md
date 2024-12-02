@@ -267,7 +267,7 @@ To better diagnose yourcondition, I need to know if you have a similar medical h
 
 ---
 
-以下是中文原回答：
+以下是中文原话：
 
 
 
