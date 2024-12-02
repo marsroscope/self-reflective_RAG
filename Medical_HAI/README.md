@@ -1,58 +1,55 @@
 
+
 ## Quick Start
-<font style="color:rgb(31, 35, 40);">1.首先需要以库形式安装我们的主系统，请执行：</font>
+
+1. First, you need to install our main system as a library, please execute:
 
 ```plain
-pip install git+https://github.com/yourusername/chatchat.git
+pip install git+https://github.com/yourusername/chatchat.git 
 ```
 
-2.执行初始化
+2. Execute initialization:
 
 ```yaml
 cd Medical_HAI
 chatchat init
 ```
 
-3.配置参数文件：
+3. Configure parameter files:
 
-+ <font style="color:rgb(31, 35, 40);">配置模型（model_settings.yaml）   推荐使用glm4 plus apikey</font>
++ **Configure the model (model_settings.yaml)** It is recommended to use glm4 plus apikey.
 
 ```yaml
-api_key: YOUR_GLM4_plus_API_KEY
+api_key: YOUR_GLM4_PLUS_API_KEY
 ```
 
-+ <font style="color:rgb(31, 35, 40);">配置基本参数（basic_settings.yaml）</font>
++ **Configure basic parameters (basic_settings.yaml)**
 
 ```yaml
-# 知识库默认存储路径
+# Default storage path for the knowledge base
 KB_ROOT_PATH: {your_project_path}\data\knowledge_base
 
-# 数据库默认存储路径。如果使用sqlite，可以直接修改DB_ROOT_PATH；如果使用其它数据库，请直接修改SQLALCHEMY_DATABASE_URI。
+# Default storage path for the database. If using sqlite, you can directly modify DB_ROOT_PATH; if using other databases, please directly modify SQLALCHEMY_DATABASE_URI.
 DB_ROOT_PATH: {your_project_path}\data\knowledge_base\info.db
 
-# 知识库信息数据库连接URI
+# Connection URI for the knowledge base information database
 SQLALCHEMY_DATABASE_URI: sqlite:///{your_project_path}\data\knowledge_base\info.db
-
 ```
 
-+ 配置你的bing_search_v7 api key<font style="color:rgb(31, 35, 40);">（basic_settings.yaml）</font>
++ Configure your bing_search_v7 api key **(basic_settings.yaml)**
 
-需要注册一个bing官方的bing_search_v7服务。
+You need to register for an official Bing bing_search_v7 service.
 
 ```yaml
-DEFAULT_BING_SEARCH_API_kEY:
+DEFAULT_BING_SEARCH_API_KEY:
 ```
 
-5.启动项目
+5. Start the project:
 
 ```yaml
 chatchat start -a
 ```
 
-6.ui界面 勾选启用agent 开启意图预测和意图预测选择 体验系统1
-![ui界面图片](images/ui.jpg)
-
-
-
-
+6. In the UI interface, check to enable the agent to start intent prediction and intent prediction selection to experience system 1.
+![UI Interface Image](images/ui.jpg)
 
